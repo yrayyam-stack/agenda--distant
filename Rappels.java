@@ -1,0 +1,5 @@
+public static Rappels {
+  public static void main(String[] args) {
+    System.out.println("Rappel : version du collègue");
+  }
+}
